@@ -1,0 +1,19 @@
+/*
+https://www.scrapingbee.com/blog/selenium-python/
+https://www.zenrows.com/blog/selenium-python-web-scraping#build-basic-scraper
+https://www.zenrows.com/blog/scraping-amazon-selenium
+https://www.zenrows.com/blog/scraping-amazon-selenium#scrape-product-details
+https://medium.com/@dmautomationqa/a-complete-guide-to-web-scraping-with-selenium-python-in-2024-4c856890be68
+https://scrapfly.io/blog/posts/web-scraping-with-selenium-and-python
+https://www.browserstack.com/guide/web-scraping-using-selenium-python
+https://www.scraperapi.com/web-scraping/selenium/
+https://www.scrapingdog.com/blog/scraping-with-python-selenium/
+https://scrapeops.io/selenium-web-scraping-playbook/python-selenium/
+https://www.toptal.com/python/web-scraping-with-python
+
+sudo apt install python3-pip
+pip install selenium
+pip3 install selenium webdriver-manager
+pip install webdriver_manager
+pip install beautifulsoup4
+*/
